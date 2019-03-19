@@ -1,0 +1,25 @@
+{
+  "name": "rubick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_source.js",
+  "dependencies": {
+    "client-sessions": "^0.8.0",
+    "restify": "^8.1.0",
+    "restify-clients": "^2.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ra7more/Rubick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ra7more/Rubick/issues"
+  },
+  "homepage": "https://github.com/ra7more/Rubick#readme"
+}
